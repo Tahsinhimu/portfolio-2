@@ -1,0 +1,31 @@
+/* Add all your styles here */
+*{
+  margin: 0px;
+  padding: 5px;
+  position: center;
+}
+.header{
+  display: flex;
+  align-item: center;
+}
+.element{
+  align-item: center;
+}
+img{
+  height: 300px;
+  width: 200px;
+  border-radius: 20px;
+}
+h3{
+  font-size: 30px;
+  font-family: serif;
+  
+}
+h3 l{
+  color: red;
+  font-family: serif;
+  
+}
+p{
+  
+}
